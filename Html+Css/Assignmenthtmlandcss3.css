@@ -1,0 +1,43 @@
+.picture1
+{
+        background-image: url("facebook.jpg");
+
+
+
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height:600px;
+ }
+ .picture2
+ {
+ background-image:url("Instagram.png");
+  background-attachment:fixed;
+    background-position: center;
+     background-size: cover;
+     min-height:600px;
+ }
+ .picture3
+ {
+ background-image:url("twitter.jpg");
+ background-attachment:fixed;
+ background-position: center;
+  background-repeat: no-repeat;
+     background-size: cover;
+     min-height:600px;
+ }
+ div
+ {
+ height:400px;
+ background-color:yellow;
+ font-size:30px;
+ color:blue;
+ }
+ body
+ {
+ margin:30px;
+ padding:0px 40px;
+ }
